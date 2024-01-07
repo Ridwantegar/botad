@@ -1,0 +1,537 @@
+{"level":30,"time":1704295962843,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Validating config file and environment variables"}
+{"level":30,"time":1704295962891,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Loading commands..."}
+{"level":20,"time":1704295962904,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command anti. Category AUTOMOD is disabled"}
+{"level":20,"time":1704295962905,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command autodelete. Category AUTOMOD is disabled"}
+{"level":20,"time":1704295963314,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command automod. Category AUTOMOD is disabled"}
+{"level":20,"time":1704295963315,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command autorole. Disabled!"}
+{"level":20,"time":1704295963316,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command counter. Disabled!"}
+{"level":20,"time":1704295963317,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command embed. Disabled!"}
+{"level":20,"time":1704295963318,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command flagtranslation. Disabled!"}
+{"level":20,"time":1704295963323,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command addrr. Disabled!"}
+{"level":20,"time":1704295963324,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command removerr. Disabled!"}
+{"level":20,"time":1704295963349,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command giveaway. Category GIVEAWAY is disabled"}
+{"level":20,"time":1704295963350,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1704295963351,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1704295963352,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command overlay. Category IMAGE is disabled"}
+{"level":20,"time":1704295963356,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command leaderboard. Disabled!"}
+{"level":20,"time":1704295963358,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1704295963359,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1704295963603,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1704295963605,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1704295963606,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1704295963607,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1704295963608,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1704295963609,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1704295963612,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1704295963613,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1704295963615,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command addinvites. Category INVITE is disabled"}
+{"level":20,"time":1704295963615,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command invitecodes. Category INVITE is disabled"}
+{"level":20,"time":1704295963616,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command inviter. Category INVITE is disabled"}
+{"level":20,"time":1704295963617,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command inviterank. Category INVITE is disabled"}
+{"level":20,"time":1704295963618,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command inviteranks. Category INVITE is disabled"}
+{"level":20,"time":1704295963619,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command invites. Category INVITE is disabled"}
+{"level":20,"time":1704295963619,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command invitesimport. Category INVITE is disabled"}
+{"level":20,"time":1704295963620,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command invitetracker. Category INVITE is disabled"}
+{"level":20,"time":1704295963621,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command resetinvites. Category INVITE is disabled"}
+{"level":20,"time":1704295963625,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1704295963626,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1704295963627,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1704295963627,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1704295963628,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1704295963629,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1704295963629,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1704295963630,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1704295963630,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1704295963631,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1704295963632,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1704295963633,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1704295963635,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1704295963637,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1704295963642,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1704295963644,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1704295963645,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1704295963648,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1704295963649,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1704295963652,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1704295963653,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1704295963653,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1704295963654,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1704295963655,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1704295963655,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1704295963656,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1704295963656,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1704295963657,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1704295963658,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1704295963658,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1704295963659,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1704295963659,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command restart. Disabled!"}
+{"level":20,"time":1704295963660,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command rank. Category STATS is disabled"}
+{"level":20,"time":1704295963661,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command stats. Category STATS is disabled"}
+{"level":20,"time":1704295963662,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command statstracking. Category STATS is disabled"}
+{"level":20,"time":1704295963662,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command levelup. Category STATS is disabled"}
+{"level":20,"time":1704295963663,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command suggest. Category SUGGESTION is disabled"}
+{"level":20,"time":1704295963665,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command suggestion. Category SUGGESTION is disabled"}
+{"level":30,"time":1704295963683,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Loaded 46 commands"}
+{"level":30,"time":1704295963683,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Loaded 33 slash commands"}
+{"level":30,"time":1704295963683,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Loading contexts..."}
+{"level":30,"time":1704295963684,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1704295963684,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1704295963684,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Loading events..."}
+{"level":30,"time":1704295963732,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1704295964313,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1704295964314,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1704295965015,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1704295967282,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Logged in as AdnanBot#5040! (1167013270847242291)"}
+{"level":30,"time":1704295968068,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","msg":"Successfully registered interactions"}
+{"level":50,"time":1704296060062,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","err":{"type":"CombinedPropertyError","message":"Received one or more errors","stack":"Error: Received one or more errors\n    at ObjectValidator.handleIgnoreStrategy (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\@sapphire\\shapeshift\\dist\\index.js:1268:70)\n    at ObjectValidator.handleStrategy (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\@sapphire\\shapeshift\\dist\\index.js:1121:47)\n    at ObjectValidator.handle (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\@sapphire\\shapeshift\\dist\\index.js:1221:17)\n    at ObjectValidator.parse (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\@sapphire\\shapeshift\\dist\\index.js:212:88)\n    at EmbedBuilder.setAuthor (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\@discordjs\\builders\\dist\\index.js:294:26)\n    at module.exports (D:\\coding\\discrod\\bot online\\husen-bot-main\\src\\events\\message\\messageCreate.js:45:8)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","aggregateErrors":[["iconURL",{"errors":[{"name":"Error","validator":"s.nullish","given":"null"},{"name":"Error","constraint":"s.string.url","given":"null","expected":"expected to match a URL"}]}]],"errors":[["iconURL",{"errors":[{"name":"Error","validator":"s.nullish","given":"null"},{"name":"Error","constraint":"s.string.url","given":"null","expected":"expected to match a URL"}]}]]},"msg":"Client Error: Received one or more errors"}
+{"level":50,"time":1704296121952,"pid":11008,"hostname":"DESKTOP-2VRVQ1K","err":{"type":"CombinedPropertyError","message":"Received one or more errors","stack":"Error: Received one or more errors\n    at ObjectValidator.handleIgnoreStrategy (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\@sapphire\\shapeshift\\dist\\index.js:1268:70)\n    at ObjectValidator.handleStrategy (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\@sapphire\\shapeshift\\dist\\index.js:1121:47)\n    at ObjectValidator.handle (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\@sapphire\\shapeshift\\dist\\index.js:1221:17)\n    at ObjectValidator.parse (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\@sapphire\\shapeshift\\dist\\index.js:212:88)\n    at EmbedBuilder.setAuthor (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\@discordjs\\builders\\dist\\index.js:294:26)\n    at module.exports (D:\\coding\\discrod\\bot online\\husen-bot-main\\src\\events\\message\\messageCreate.js:45:8)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","aggregateErrors":[["iconURL",{"errors":[{"name":"Error","validator":"s.nullish","given":"null"},{"name":"Error","constraint":"s.string.url","given":"null","expected":"expected to match a URL"}]}]],"errors":[["iconURL",{"errors":[{"name":"Error","validator":"s.nullish","given":"null"},{"name":"Error","constraint":"s.string.url","given":"null","expected":"expected to match a URL"}]}]]},"msg":"Client Error: Received one or more errors"}
+{"level":30,"time":1704296826819,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Validating config file and environment variables"}
+{"level":30,"time":1704296826876,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Loading commands..."}
+{"level":20,"time":1704296826890,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command anti. Category AUTOMOD is disabled"}
+{"level":20,"time":1704296826891,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command autodelete. Category AUTOMOD is disabled"}
+{"level":20,"time":1704296826937,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command automod. Category AUTOMOD is disabled"}
+{"level":20,"time":1704296826939,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command autorole. Disabled!"}
+{"level":20,"time":1704296826940,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command counter. Disabled!"}
+{"level":20,"time":1704296826941,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command embed. Disabled!"}
+{"level":20,"time":1704296826941,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command flagtranslation. Disabled!"}
+{"level":20,"time":1704296826946,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command addrr. Disabled!"}
+{"level":20,"time":1704296826947,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command removerr. Disabled!"}
+{"level":20,"time":1704296826958,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command giveaway. Category GIVEAWAY is disabled"}
+{"level":20,"time":1704296826960,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1704296826961,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1704296826962,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command overlay. Category IMAGE is disabled"}
+{"level":20,"time":1704296826965,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command leaderboard. Disabled!"}
+{"level":20,"time":1704296826967,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1704296826968,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1704296827002,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1704296827004,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1704296827005,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1704296827007,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1704296827007,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1704296827009,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1704296827012,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1704296827013,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1704296827015,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command addinvites. Category INVITE is disabled"}
+{"level":20,"time":1704296827015,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command invitecodes. Category INVITE is disabled"}
+{"level":20,"time":1704296827016,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command inviter. Category INVITE is disabled"}
+{"level":20,"time":1704296827018,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command inviterank. Category INVITE is disabled"}
+{"level":20,"time":1704296827018,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command inviteranks. Category INVITE is disabled"}
+{"level":20,"time":1704296827019,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command invites. Category INVITE is disabled"}
+{"level":20,"time":1704296827020,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command invitesimport. Category INVITE is disabled"}
+{"level":20,"time":1704296827020,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command invitetracker. Category INVITE is disabled"}
+{"level":20,"time":1704296827021,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command resetinvites. Category INVITE is disabled"}
+{"level":20,"time":1704296827025,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1704296827026,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1704296827028,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1704296827028,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1704296827029,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1704296827029,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1704296827030,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1704296827030,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1704296827031,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1704296827032,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1704296827033,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1704296827034,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1704296827037,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1704296827038,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1704296827049,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command lyric. Disabled!"}
+{"level":20,"time":1704296827061,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1704296827062,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1704296827062,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1704296827063,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command restart. Disabled!"}
+{"level":20,"time":1704296827064,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command rank. Category STATS is disabled"}
+{"level":20,"time":1704296827065,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command stats. Category STATS is disabled"}
+{"level":20,"time":1704296827065,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command statstracking. Category STATS is disabled"}
+{"level":20,"time":1704296827066,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command levelup. Category STATS is disabled"}
+{"level":20,"time":1704296827067,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command suggest. Category SUGGESTION is disabled"}
+{"level":20,"time":1704296827069,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command suggestion. Category SUGGESTION is disabled"}
+{"level":30,"time":1704296827080,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Loaded 59 commands"}
+{"level":30,"time":1704296827080,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Loaded 47 slash commands"}
+{"level":30,"time":1704296827080,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Loading contexts..."}
+{"level":30,"time":1704296827082,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1704296827082,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1704296827082,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Loading events..."}
+{"level":30,"time":1704296827124,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1704296827592,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1704296827592,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1704296828240,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1704296831141,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Logged in as AdnanBot#5040! (1167013270847242291)"}
+{"level":20,"time":1704296831141,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: creating websocket..."}
+{"level":30,"time":1704296831142,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Music Manager initialized"}
+{"level":30,"time":1704296831607,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" connected"}
+{"level":20,"time":1704296831607,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: connected in 465ms"}
+{"level":20,"time":1704296831651,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":15,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":282342952,\"free\":663472600,\"allocated\":945815552},\"players\":88,\"cpu\":{\"cores\":3,\"systemLoad\":0,\"lavalinkLoad\":0.45383637756282513},\"uptime\":866216297}"}
+{"level":30,"time":1704296831971,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Successfully registered interactions"}
+{"level":50,"time":1704296847872,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","err":{"type":"CombinedPropertyError","message":"Received one or more errors","stack":"Error: Received one or more errors\n    at ObjectValidator.handleIgnoreStrategy (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\@sapphire\\shapeshift\\dist\\index.js:1268:70)\n    at ObjectValidator.handleStrategy (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\@sapphire\\shapeshift\\dist\\index.js:1121:47)\n    at ObjectValidator.handle (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\@sapphire\\shapeshift\\dist\\index.js:1221:17)\n    at ObjectValidator.parse (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\@sapphire\\shapeshift\\dist\\index.js:212:88)\n    at EmbedBuilder.setAuthor (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\@discordjs\\builders\\dist\\index.js:294:26)\n    at module.exports (D:\\coding\\discrod\\bot online\\husen-bot-main\\src\\events\\message\\messageCreate.js:45:8)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","aggregateErrors":[["iconURL",{"errors":[{"name":"Error","validator":"s.nullish","given":"null"},{"name":"Error","constraint":"s.string.url","given":"null","expected":"expected to match a URL"}]}]],"errors":[["iconURL",{"errors":[{"name":"Error","validator":"s.nullish","given":"null"},{"name":"Error","constraint":"s.string.url","given":"null","expected":"expected to match a URL"}]}]]},"msg":"Client Error: Received one or more errors"}
+{"level":20,"time":1704296849647,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: rest: + GET /loadtracks?identifier=ytsearch%3Ahallo"}
+{"level":20,"time":1704296849649,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: [player 1142674365817823294] voice: updating voice status in guild=1142674365817823294, channel=null"}
+{"level":20,"time":1704296849650,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient >>> play: {\"op\":\"play\",\"track\":\"QAAAcQIAD0JleW9uY8OpIC0gSGFsbwAIQmV5b25jw6kAAAAAAANu6AALYm5WVUhXQ3luaWcAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1iblZVSFdDeW5pZwAHeW91dHViZQAAAAAAAAAA\",\"guildId\":\"1142674365817823294\"}"}
+{"level":20,"time":1704296849861,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< event: {\"op\":\"event\",\"type\":\"TrackStartEvent\",\"track\":\"QAAAcQIAD0JleW9uY8OpIC0gSGFsbwAIQmV5b25jw6kAAAAAAANu6AALYm5WVUhXQ3luaWcAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1iblZVSFdDeW5pZwAHeW91dHViZQAAAAAAAAAA\",\"guildId\":\"1142674365817823294\"}"}
+{"level":20,"time":1704296849861,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< playerUpdate: {\"op\":\"playerUpdate\",\"state\":{\"connected\":false,\"position\":0,\"time\":1704296848756},\"guildId\":\"1142674365817823294\"}"}
+{"level":20,"time":1704296849862,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< playerUpdate: {\"op\":\"playerUpdate\",\"state\":{\"connected\":false,\"position\":0,\"time\":1704296848756},\"guildId\":\"1142674365817823294\"}"}
+{"level":20,"time":1704296850153,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: [player 1142674365817823294] voice: submitting voice update"}
+{"level":20,"time":1704296850153,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient >>> voiceUpdate: {\"op\":\"voiceUpdate\",\"guildId\":\"1142674365817823294\",\"sessionId\":\"aaa111b2cfe24b602863c5bf9ccf9724\",\"event\":{\"token\":\"a0e7c224ebbb1d4c\",\"guild_id\":\"1142674365817823294\",\"endpoint\":\"singapore11054.discord.media:443\"}}"}
+{"level":20,"time":1704296851076,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< playerUpdate: {\"op\":\"playerUpdate\",\"state\":{\"connected\":true,\"position\":0,\"time\":1704296849976},\"guildId\":\"1142674365817823294\"}"}
+{"level":20,"time":1704296854858,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< playerUpdate: {\"op\":\"playerUpdate\",\"state\":{\"connected\":true,\"position\":4300,\"time\":1704296853755},\"guildId\":\"1142674365817823294\"}"}
+{"level":20,"time":1704296859856,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< playerUpdate: {\"op\":\"playerUpdate\",\"state\":{\"connected\":true,\"position\":9300,\"time\":1704296858755},\"guildId\":\"1142674365817823294\"}"}
+{"level":20,"time":1704296864856,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< playerUpdate: {\"op\":\"playerUpdate\",\"state\":{\"connected\":true,\"position\":14300,\"time\":1704296863755},\"guildId\":\"1142674365817823294\"}"}
+{"level":20,"time":1704296869857,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< playerUpdate: {\"op\":\"playerUpdate\",\"state\":{\"connected\":true,\"position\":19300,\"time\":1704296868755},\"guildId\":\"1142674365817823294\"}"}
+{"level":20,"time":1704296874856,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< playerUpdate: {\"op\":\"playerUpdate\",\"state\":{\"connected\":true,\"position\":24300,\"time\":1704296873755},\"guildId\":\"1142674365817823294\"}"}
+{"level":20,"time":1704296879855,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< playerUpdate: {\"op\":\"playerUpdate\",\"state\":{\"connected\":true,\"position\":29300,\"time\":1704296878755},\"guildId\":\"1142674365817823294\"}"}
+{"level":50,"time":1704296882222,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","err":{"type":"TypeError","message":"Cannot read properties of undefined (reading 'musicManager')","stack":"TypeError: Cannot read properties of undefined (reading 'musicManager')\n    at stop (D:\\coding\\discrod\\bot online\\husen-bot-main\\src\\commands\\music\\stop.js:41:25)\n    at Object.messageRun (D:\\coding\\discrod\\bot online\\husen-bot-main\\src\\commands\\music\\stop.js:21:28)\n    at Object.handlePrefixCommand (D:\\coding\\discrod\\bot online\\husen-bot-main\\src\\handlers\\command.js:73:17)\n    at module.exports (D:\\coding\\discrod\\bot online\\husen-bot-main\\src\\events\\message\\messageCreate.js:38:24)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"},"msg":"messageRun: Cannot read properties of undefined (reading 'musicManager')"}
+{"level":50,"time":1704296882228,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","err":{"type":"CombinedPropertyError","message":"Received one or more errors","stack":"Error: Received one or more errors\n    at ObjectValidator.handleIgnoreStrategy (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\@sapphire\\shapeshift\\dist\\index.js:1268:70)\n    at ObjectValidator.handleStrategy (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\@sapphire\\shapeshift\\dist\\index.js:1121:47)\n    at ObjectValidator.handle (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\@sapphire\\shapeshift\\dist\\index.js:1221:17)\n    at ObjectValidator.parse (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\@sapphire\\shapeshift\\dist\\index.js:212:88)\n    at EmbedBuilder.setAuthor (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\@discordjs\\builders\\dist\\index.js:294:26)\n    at module.exports (D:\\coding\\discrod\\bot online\\husen-bot-main\\src\\events\\message\\messageCreate.js:45:8)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","aggregateErrors":[["iconURL",{"errors":[{"name":"Error","validator":"s.nullish","given":"null"},{"name":"Error","constraint":"s.string.url","given":"null","expected":"expected to match a URL"}]}]],"errors":[["iconURL",{"errors":[{"name":"Error","validator":"s.nullish","given":"null"},{"name":"Error","constraint":"s.string.url","given":"null","expected":"expected to match a URL"}]}]]},"msg":"Client Error: Received one or more errors"}
+{"level":20,"time":1704296884858,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< playerUpdate: {\"op\":\"playerUpdate\",\"state\":{\"connected\":true,\"position\":34300,\"time\":1704296883755},\"guildId\":\"1142674365817823294\"}"}
+{"level":50,"time":1704296887075,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","err":{"type":"TypeError","message":"Cannot mix BigInt and other types, use explicit conversions","stack":"TypeError: Cannot mix BigInt and other types, use explicit conversions\n    at module.exports (D:\\coding\\discrod\\bot online\\husen-bot-main\\src\\events\\voice\\voiceStateUpdate.js:27:40)\n    at BotClient.emit (node:events:514:28)\n    at VoiceStateUpdate.handle (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\discord.js\\src\\client\\actions\\VoiceStateUpdate.js:38:14)\n    at module.exports [as VOICE_STATE_UPDATE] (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\discord.js\\src\\client\\websocket\\handlers\\VOICE_STATE_UPDATE.js:4:35)\n    at WebSocketManager.handlePacket (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\discord.js\\src\\client\\websocket\\WebSocketManager.js:355:31)\n    at WebSocketManager.<anonymous> (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\discord.js\\src\\client\\websocket\\WebSocketManager.js:239:12)\n    at WebSocketManager.emit (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\@vladfrangu\\async_event_emitter\\dist\\index.js:282:31)\n    at WebSocketShard.<anonymous> (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\@discordjs\\ws\\dist\\index.js:1173:51)\n    at WebSocketShard.emit (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\@vladfrangu\\async_event_emitter\\dist\\index.js:282:31)\n    at WebSocketShard.onMessage (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\@discordjs\\ws\\dist\\index.js:988:14)"},"msg":"Client Error: Cannot mix BigInt and other types, use explicit conversions"}
+{"level":20,"time":1704296889858,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< playerUpdate: {\"op\":\"playerUpdate\",\"state\":{\"connected\":true,\"position\":39300,\"time\":1704296888755},\"guildId\":\"1142674365817823294\"}"}
+{"level":20,"time":1704296891606,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":17,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":308602624,\"free\":637212928,\"allocated\":945815552},\"players\":89,\"cpu\":{\"cores\":3,\"systemLoad\":0.04639321074964639,\"lavalinkLoad\":0.05839862199255432},\"uptime\":866276297}"}
+{"level":20,"time":1704296894856,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< playerUpdate: {\"op\":\"playerUpdate\",\"state\":{\"connected\":true,\"position\":44300,\"time\":1704296893755},\"guildId\":\"1142674365817823294\"}"}
+{"level":20,"time":1704296899856,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< playerUpdate: {\"op\":\"playerUpdate\",\"state\":{\"connected\":true,\"position\":49300,\"time\":1704296898755},\"guildId\":\"1142674365817823294\"}"}
+{"level":20,"time":1704296904856,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< playerUpdate: {\"op\":\"playerUpdate\",\"state\":{\"connected\":true,\"position\":54300,\"time\":1704296903755},\"guildId\":\"1142674365817823294\"}"}
+{"level":20,"time":1704296909856,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< playerUpdate: {\"op\":\"playerUpdate\",\"state\":{\"connected\":true,\"position\":59300,\"time\":1704296908755},\"guildId\":\"1142674365817823294\"}"}
+{"level":20,"time":1704296914856,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< playerUpdate: {\"op\":\"playerUpdate\",\"state\":{\"connected\":true,\"position\":64300,\"time\":1704296913755},\"guildId\":\"1142674365817823294\"}"}
+{"level":20,"time":1704296919862,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< playerUpdate: {\"op\":\"playerUpdate\",\"state\":{\"connected\":true,\"position\":69300,\"time\":1704296918755},\"guildId\":\"1142674365817823294\"}"}
+{"level":20,"time":1704296924856,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< playerUpdate: {\"op\":\"playerUpdate\",\"state\":{\"connected\":true,\"position\":74300,\"time\":1704296923755},\"guildId\":\"1142674365817823294\"}"}
+{"level":20,"time":1704296929856,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< playerUpdate: {\"op\":\"playerUpdate\",\"state\":{\"connected\":true,\"position\":79300,\"time\":1704296928755},\"guildId\":\"1142674365817823294\"}"}
+{"level":20,"time":1704296934863,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< playerUpdate: {\"op\":\"playerUpdate\",\"state\":{\"connected\":true,\"position\":84300,\"time\":1704296933755},\"guildId\":\"1142674365817823294\"}"}
+{"level":20,"time":1704296939856,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< playerUpdate: {\"op\":\"playerUpdate\",\"state\":{\"connected\":true,\"position\":89300,\"time\":1704296938755},\"guildId\":\"1142674365817823294\"}"}
+{"level":20,"time":1704296944856,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< playerUpdate: {\"op\":\"playerUpdate\",\"state\":{\"connected\":true,\"position\":94300,\"time\":1704296943755},\"guildId\":\"1142674365817823294\"}"}
+{"level":20,"time":1704296949856,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< playerUpdate: {\"op\":\"playerUpdate\",\"state\":{\"connected\":true,\"position\":99300,\"time\":1704296948755},\"guildId\":\"1142674365817823294\"}"}
+{"level":20,"time":1704296951606,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":17,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":289829584,\"free\":655985968,\"allocated\":945815552},\"frameStats\":{\"sent\":3000,\"deficit\":0,\"nulled\":0},\"players\":88,\"cpu\":{\"cores\":3,\"systemLoad\":0.04403586426058336,\"lavalinkLoad\":0.058888888888888886},\"uptime\":866336297}"}
+{"level":20,"time":1704296954857,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< playerUpdate: {\"op\":\"playerUpdate\",\"state\":{\"connected\":true,\"position\":104300,\"time\":1704296953755},\"guildId\":\"1142674365817823294\"}"}
+{"level":20,"time":1704296959856,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< playerUpdate: {\"op\":\"playerUpdate\",\"state\":{\"connected\":true,\"position\":109300,\"time\":1704296958755},\"guildId\":\"1142674365817823294\"}"}
+{"level":20,"time":1704296964860,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< playerUpdate: {\"op\":\"playerUpdate\",\"state\":{\"connected\":true,\"position\":114300,\"time\":1704296963755},\"guildId\":\"1142674365817823294\"}"}
+{"level":20,"time":1704296969855,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< playerUpdate: {\"op\":\"playerUpdate\",\"state\":{\"connected\":true,\"position\":119300,\"time\":1704296968755},\"guildId\":\"1142674365817823294\"}"}
+{"level":20,"time":1704296974856,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< playerUpdate: {\"op\":\"playerUpdate\",\"state\":{\"connected\":true,\"position\":124300,\"time\":1704296973755},\"guildId\":\"1142674365817823294\"}"}
+{"level":20,"time":1704296979856,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< playerUpdate: {\"op\":\"playerUpdate\",\"state\":{\"connected\":true,\"position\":129300,\"time\":1704296978755},\"guildId\":\"1142674365817823294\"}"}
+{"level":20,"time":1704296984856,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< playerUpdate: {\"op\":\"playerUpdate\",\"state\":{\"connected\":true,\"position\":134300,\"time\":1704296983755},\"guildId\":\"1142674365817823294\"}"}
+{"level":20,"time":1704296989859,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< playerUpdate: {\"op\":\"playerUpdate\",\"state\":{\"connected\":true,\"position\":139300,\"time\":1704296988755},\"guildId\":\"1142674365817823294\"}"}
+{"level":20,"time":1704296994860,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< playerUpdate: {\"op\":\"playerUpdate\",\"state\":{\"connected\":true,\"position\":144300,\"time\":1704296993755},\"guildId\":\"1142674365817823294\"}"}
+{"level":20,"time":1704296999860,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< playerUpdate: {\"op\":\"playerUpdate\",\"state\":{\"connected\":true,\"position\":149300,\"time\":1704296998755},\"guildId\":\"1142674365817823294\"}"}
+{"level":20,"time":1704297004856,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< playerUpdate: {\"op\":\"playerUpdate\",\"state\":{\"connected\":true,\"position\":154300,\"time\":1704297003755},\"guildId\":\"1142674365817823294\"}"}
+{"level":20,"time":1704297009855,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< playerUpdate: {\"op\":\"playerUpdate\",\"state\":{\"connected\":true,\"position\":159300,\"time\":1704297008755},\"guildId\":\"1142674365817823294\"}"}
+{"level":20,"time":1704297011605,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":17,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":317008808,\"free\":626709592,\"allocated\":943718400},\"frameStats\":{\"sent\":2998,\"deficit\":2,\"nulled\":0},\"players\":88,\"cpu\":{\"cores\":3,\"systemLoad\":0.04538757932910245,\"lavalinkLoad\":0.059},\"uptime\":866396297}"}
+{"level":20,"time":1704297014855,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< playerUpdate: {\"op\":\"playerUpdate\",\"state\":{\"connected\":true,\"position\":164300,\"time\":1704297013755},\"guildId\":\"1142674365817823294\"}"}
+{"level":20,"time":1704297019855,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< playerUpdate: {\"op\":\"playerUpdate\",\"state\":{\"connected\":true,\"position\":169300,\"time\":1704297018755},\"guildId\":\"1142674365817823294\"}"}
+{"level":20,"time":1704297024856,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< playerUpdate: {\"op\":\"playerUpdate\",\"state\":{\"connected\":true,\"position\":174300,\"time\":1704297023755},\"guildId\":\"1142674365817823294\"}"}
+{"level":20,"time":1704297029858,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< playerUpdate: {\"op\":\"playerUpdate\",\"state\":{\"connected\":true,\"position\":179300,\"time\":1704297028755},\"guildId\":\"1142674365817823294\"}"}
+{"level":20,"time":1704297034855,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< playerUpdate: {\"op\":\"playerUpdate\",\"state\":{\"connected\":true,\"position\":184300,\"time\":1704297033755},\"guildId\":\"1142674365817823294\"}"}
+{"level":20,"time":1704297039855,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< playerUpdate: {\"op\":\"playerUpdate\",\"state\":{\"connected\":true,\"position\":189300,\"time\":1704297038755},\"guildId\":\"1142674365817823294\"}"}
+{"level":20,"time":1704297044855,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< playerUpdate: {\"op\":\"playerUpdate\",\"state\":{\"connected\":true,\"position\":194300,\"time\":1704297043755},\"guildId\":\"1142674365817823294\"}"}
+{"level":20,"time":1704297049855,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< playerUpdate: {\"op\":\"playerUpdate\",\"state\":{\"connected\":true,\"position\":199300,\"time\":1704297048755},\"guildId\":\"1142674365817823294\"}"}
+{"level":20,"time":1704297054854,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< playerUpdate: {\"op\":\"playerUpdate\",\"state\":{\"connected\":true,\"position\":204300,\"time\":1704297053755},\"guildId\":\"1142674365817823294\"}"}
+{"level":20,"time":1704297059855,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< playerUpdate: {\"op\":\"playerUpdate\",\"state\":{\"connected\":true,\"position\":209300,\"time\":1704297058755},\"guildId\":\"1142674365817823294\"}"}
+{"level":20,"time":1704297064855,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< playerUpdate: {\"op\":\"playerUpdate\",\"state\":{\"connected\":true,\"position\":214300,\"time\":1704297063755},\"guildId\":\"1142674365817823294\"}"}
+{"level":20,"time":1704297069855,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< playerUpdate: {\"op\":\"playerUpdate\",\"state\":{\"connected\":true,\"position\":219300,\"time\":1704297068755},\"guildId\":\"1142674365817823294\"}"}
+{"level":20,"time":1704297071605,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":16,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":434156128,\"free\":509562272,\"allocated\":943718400},\"frameStats\":{\"sent\":3002,\"deficit\":-2,\"nulled\":0},\"players\":87,\"cpu\":{\"cores\":3,\"systemLoad\":0.049216496011766704,\"lavalinkLoad\":0.06127777777777777},\"uptime\":866456297}"}
+{"level":20,"time":1704297074864,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< playerUpdate: {\"op\":\"playerUpdate\",\"state\":{\"connected\":true,\"position\":224300,\"time\":1704297073755},\"guildId\":\"1142674365817823294\"}"}
+{"level":20,"time":1704297075343,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient >>> destroy: {\"op\":\"destroy\",\"guildId\":\"1142674365817823294\"}"}
+{"level":20,"time":1704297075344,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: [player 1142674365817823294] voice: updating voice status in guild=1142674365817823294, channel=1142674366358880339"}
+{"level":20,"time":1704297075344,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< event: {\"op\":\"event\",\"reason\":\"FINISHED\",\"type\":\"TrackEndEvent\",\"track\":\"QAAAcQIAD0JleW9uY8OpIC0gSGFsbwAIQmV5b25jw6kAAAAAAANu6AALYm5WVUhXQ3luaWcAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1iblZVSFdDeW5pZwAHeW91dHViZQAAAAAAA24M\",\"guildId\":\"1142674365817823294\"}"}
+{"level":20,"time":1704297075554,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< event: {\"op\":\"event\",\"reason\":\"\",\"code\":1000,\"byRemote\":false,\"type\":\"WebSocketClosedEvent\",\"guildId\":\"1142674365817823294\"}"}
+{"level":20,"time":1704297075554,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< playerUpdate: {\"op\":\"playerUpdate\",\"state\":{\"connected\":false,\"time\":1704297074451},\"guildId\":\"1142674365817823294\"}"}
+{"level":20,"time":1704297131606,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":16,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":515708472,\"free\":428009928,\"allocated\":943718400},\"players\":87,\"cpu\":{\"cores\":3,\"systemLoad\":0.04709141274238227,\"lavalinkLoad\":0.058444444444444445},\"uptime\":866516297}"}
+{"level":20,"time":1704297191603,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":16,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":533720248,\"free\":409998152,\"allocated\":943718400},\"players\":87,\"cpu\":{\"cores\":3,\"systemLoad\":0.059957052441229654,\"lavalinkLoad\":0.07038888888888889},\"uptime\":866576297}"}
+{"level":20,"time":1704297251604,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":16,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":360503216,\"free\":583215184,\"allocated\":943718400},\"players\":87,\"cpu\":{\"cores\":3,\"systemLoad\":0.05294648904944683,\"lavalinkLoad\":0.06205555555555556},\"uptime\":866636297}"}
+{"level":50,"time":1704297264563,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","err":{"type":"CombinedPropertyError","message":"Received one or more errors","stack":"Error: Received one or more errors\n    at ObjectValidator.handleIgnoreStrategy (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\@sapphire\\shapeshift\\dist\\index.js:1268:70)\n    at ObjectValidator.handleStrategy (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\@sapphire\\shapeshift\\dist\\index.js:1121:47)\n    at ObjectValidator.handle (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\@sapphire\\shapeshift\\dist\\index.js:1221:17)\n    at ObjectValidator.parse (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\@sapphire\\shapeshift\\dist\\index.js:212:88)\n    at EmbedBuilder.setAuthor (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\@discordjs\\builders\\dist\\index.js:294:26)\n    at module.exports (D:\\coding\\discrod\\bot online\\husen-bot-main\\src\\events\\message\\messageCreate.js:45:8)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","aggregateErrors":[["iconURL",{"errors":[{"name":"Error","validator":"s.nullish","given":"null"},{"name":"Error","constraint":"s.string.url","given":"null","expected":"expected to match a URL"}]}]],"errors":[["iconURL",{"errors":[{"name":"Error","validator":"s.nullish","given":"null"},{"name":"Error","constraint":"s.string.url","given":"null","expected":"expected to match a URL"}]}]]},"msg":"Client Error: Received one or more errors"}
+{"level":20,"time":1704297311603,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":16,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":292600136,\"free\":651118264,\"allocated\":943718400},\"players\":87,\"cpu\":{\"cores\":3,\"systemLoad\":0.0395703787450537,\"lavalinkLoad\":0.05094444444444444},\"uptime\":866696297}"}
+{"level":20,"time":1704297371603,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":14,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":309219384,\"free\":634499016,\"allocated\":943718400},\"players\":86,\"cpu\":{\"cores\":3,\"systemLoad\":0.046028169014084505,\"lavalinkLoad\":0.05405555555555555},\"uptime\":866756297}"}
+{"level":20,"time":1704297431603,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":16,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":351225240,\"free\":592493160,\"allocated\":943718400},\"players\":86,\"cpu\":{\"cores\":3,\"systemLoad\":0.05330034858877769,\"lavalinkLoad\":0.05938888888888889},\"uptime\":866816297}"}
+{"level":20,"time":1704297491607,"pid":4600,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":17,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":421760192,\"free\":521958208,\"allocated\":943718400},\"players\":87,\"cpu\":{\"cores\":3,\"systemLoad\":0.04734326679786337,\"lavalinkLoad\":0.05366666666666667},\"uptime\":866876297}"}
+{"level":30,"time":1704297504574,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Validating config file and environment variables"}
+{"level":30,"time":1704297504627,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Loading commands..."}
+{"level":20,"time":1704297504641,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command anti. Category AUTOMOD is disabled"}
+{"level":20,"time":1704297504642,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command autodelete. Category AUTOMOD is disabled"}
+{"level":20,"time":1704297504685,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command automod. Category AUTOMOD is disabled"}
+{"level":20,"time":1704297504686,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command autorole. Disabled!"}
+{"level":20,"time":1704297504686,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command counter. Disabled!"}
+{"level":20,"time":1704297504687,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command embed. Disabled!"}
+{"level":20,"time":1704297504688,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command flagtranslation. Disabled!"}
+{"level":20,"time":1704297504693,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command addrr. Disabled!"}
+{"level":20,"time":1704297504694,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command removerr. Disabled!"}
+{"level":20,"time":1704297504705,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command giveaway. Category GIVEAWAY is disabled"}
+{"level":20,"time":1704297504712,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command leaderboard. Disabled!"}
+{"level":20,"time":1704297504713,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1704297504715,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1704297504751,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1704297504752,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1704297504754,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1704297504755,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1704297504756,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1704297504757,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1704297504760,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1704297504761,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1704297504763,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command addinvites. Category INVITE is disabled"}
+{"level":20,"time":1704297504763,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command invitecodes. Category INVITE is disabled"}
+{"level":20,"time":1704297504764,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command inviter. Category INVITE is disabled"}
+{"level":20,"time":1704297504765,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command inviterank. Category INVITE is disabled"}
+{"level":20,"time":1704297504765,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command inviteranks. Category INVITE is disabled"}
+{"level":20,"time":1704297504766,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command invites. Category INVITE is disabled"}
+{"level":20,"time":1704297504767,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command invitesimport. Category INVITE is disabled"}
+{"level":20,"time":1704297504767,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command invitetracker. Category INVITE is disabled"}
+{"level":20,"time":1704297504768,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command resetinvites. Category INVITE is disabled"}
+{"level":20,"time":1704297504772,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1704297504773,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1704297504775,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1704297504775,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1704297504776,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1704297504776,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1704297504777,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1704297504777,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1704297504778,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1704297504779,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1704297504781,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1704297504782,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1704297504784,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1704297504785,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1704297504802,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command lyric. Disabled!"}
+{"level":20,"time":1704297504811,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1704297504811,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1704297504812,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1704297504812,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command restart. Disabled!"}
+{"level":20,"time":1704297504813,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command rank. Category STATS is disabled"}
+{"level":20,"time":1704297504814,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command stats. Category STATS is disabled"}
+{"level":20,"time":1704297504814,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command statstracking. Category STATS is disabled"}
+{"level":20,"time":1704297504815,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command levelup. Category STATS is disabled"}
+{"level":20,"time":1704297504816,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command suggest. Category SUGGESTION is disabled"}
+{"level":20,"time":1704297504818,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command suggestion. Category SUGGESTION is disabled"}
+{"level":30,"time":1704297504829,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Loaded 62 commands"}
+{"level":30,"time":1704297504829,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Loaded 50 slash commands"}
+{"level":30,"time":1704297504829,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Loading contexts..."}
+{"level":30,"time":1704297504830,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1704297504830,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1704297504830,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Loading events..."}
+{"level":30,"time":1704297504874,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1704297505359,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1704297505359,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1704297506252,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1704297508049,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Logged in as AdnanBot#5040! (1167013270847242291)"}
+{"level":20,"time":1704297508050,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: creating websocket..."}
+{"level":30,"time":1704297508052,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Music Manager initialized"}
+{"level":30,"time":1704297508052,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1704297508099,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1704297508526,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" connected"}
+{"level":20,"time":1704297508526,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: connected in 475ms"}
+{"level":20,"time":1704297508537,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":17,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":590009392,\"free\":353709008,\"allocated\":943718400},\"players\":87,\"cpu\":{\"cores\":3,\"systemLoad\":0,\"lavalinkLoad\":0.45378101618767036},\"uptime\":866893220}"}
+{"level":30,"time":1704297508798,"pid":3140,"hostname":"DESKTOP-2VRVQ1K","msg":"Successfully registered interactions"}
+{"level":30,"time":1704297539247,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Validating config file and environment variables"}
+{"level":30,"time":1704297539299,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Loading commands..."}
+{"level":20,"time":1704297539312,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command anti. Category AUTOMOD is disabled"}
+{"level":20,"time":1704297539313,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command autodelete. Category AUTOMOD is disabled"}
+{"level":20,"time":1704297539355,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command automod. Category AUTOMOD is disabled"}
+{"level":20,"time":1704297539356,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command autorole. Disabled!"}
+{"level":20,"time":1704297539356,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command counter. Disabled!"}
+{"level":20,"time":1704297539357,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command embed. Disabled!"}
+{"level":20,"time":1704297539358,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command flagtranslation. Disabled!"}
+{"level":20,"time":1704297539363,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command addrr. Disabled!"}
+{"level":20,"time":1704297539364,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command removerr. Disabled!"}
+{"level":20,"time":1704297539374,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command giveaway. Category GIVEAWAY is disabled"}
+{"level":20,"time":1704297539381,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command leaderboard. Disabled!"}
+{"level":20,"time":1704297539383,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1704297539384,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1704297539418,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1704297539420,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1704297539421,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1704297539422,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1704297539423,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1704297539424,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1704297539426,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1704297539428,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1704297539430,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command addinvites. Category INVITE is disabled"}
+{"level":20,"time":1704297539430,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command invitecodes. Category INVITE is disabled"}
+{"level":20,"time":1704297539431,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command inviter. Category INVITE is disabled"}
+{"level":20,"time":1704297539432,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command inviterank. Category INVITE is disabled"}
+{"level":20,"time":1704297539433,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command inviteranks. Category INVITE is disabled"}
+{"level":20,"time":1704297539433,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command invites. Category INVITE is disabled"}
+{"level":20,"time":1704297539434,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command invitesimport. Category INVITE is disabled"}
+{"level":20,"time":1704297539434,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command invitetracker. Category INVITE is disabled"}
+{"level":20,"time":1704297539435,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command resetinvites. Category INVITE is disabled"}
+{"level":20,"time":1704297539439,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1704297539440,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1704297539441,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1704297539442,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1704297539442,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1704297539443,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1704297539443,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1704297539444,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1704297539444,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1704297539445,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1704297539447,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1704297539448,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1704297539450,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1704297539451,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1704297539461,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command lyric. Disabled!"}
+{"level":20,"time":1704297539470,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1704297539470,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1704297539471,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1704297539471,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command restart. Disabled!"}
+{"level":20,"time":1704297539472,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command rank. Category STATS is disabled"}
+{"level":20,"time":1704297539473,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command stats. Category STATS is disabled"}
+{"level":20,"time":1704297539474,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command statstracking. Category STATS is disabled"}
+{"level":20,"time":1704297539474,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command levelup. Category STATS is disabled"}
+{"level":20,"time":1704297539476,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command suggest. Category SUGGESTION is disabled"}
+{"level":20,"time":1704297539478,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command suggestion. Category SUGGESTION is disabled"}
+{"level":30,"time":1704297539488,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Loaded 62 commands"}
+{"level":30,"time":1704297539488,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Loaded 50 slash commands"}
+{"level":30,"time":1704297539488,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Loading contexts..."}
+{"level":30,"time":1704297539490,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1704297539490,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1704297539490,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Loading events..."}
+{"level":30,"time":1704297539532,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1704297539984,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1704297539984,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1704297541024,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1704297543746,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Logged in as AdnanBot#5040! (1167013270847242291)"}
+{"level":20,"time":1704297543747,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: creating websocket..."}
+{"level":30,"time":1704297543748,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Music Manager initialized"}
+{"level":30,"time":1704297543748,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1704297543793,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1704297544153,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" connected"}
+{"level":20,"time":1704297544153,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: connected in 405ms"}
+{"level":20,"time":1704297544159,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":16,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":322564088,\"free\":621154312,\"allocated\":943718400},\"players\":87,\"cpu\":{\"cores\":3,\"systemLoad\":0,\"lavalinkLoad\":0.4537772171280812},\"uptime\":866928865}"}
+{"level":30,"time":1704297544559,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Successfully registered interactions"}
+{"level":50,"time":1704297560066,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","err":{"type":"CombinedPropertyError","message":"Received one or more errors","stack":"Error: Received one or more errors\n    at ObjectValidator.handleIgnoreStrategy (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\@sapphire\\shapeshift\\dist\\index.js:1268:70)\n    at ObjectValidator.handleStrategy (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\@sapphire\\shapeshift\\dist\\index.js:1121:47)\n    at ObjectValidator.handle (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\@sapphire\\shapeshift\\dist\\index.js:1221:17)\n    at ObjectValidator.parse (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\@sapphire\\shapeshift\\dist\\index.js:212:88)\n    at EmbedBuilder.setAuthor (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\@discordjs\\builders\\dist\\index.js:294:26)\n    at module.exports (D:\\coding\\discrod\\bot online\\husen-bot-main\\src\\events\\message\\messageCreate.js:45:8)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","aggregateErrors":[["iconURL",{"errors":[{"name":"Error","validator":"s.nullish","given":"null"},{"name":"Error","constraint":"s.string.url","given":"null","expected":"expected to match a URL"}]}]],"errors":[["iconURL",{"errors":[{"name":"Error","validator":"s.nullish","given":"null"},{"name":"Error","constraint":"s.string.url","given":"null","expected":"expected to match a URL"}]}]]},"msg":"Client Error: Received one or more errors"}
+{"level":50,"time":1704297579106,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","err":{"type":"CombinedPropertyError","message":"Received one or more errors","stack":"Error: Received one or more errors\n    at ObjectValidator.handleIgnoreStrategy (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\@sapphire\\shapeshift\\dist\\index.js:1268:70)\n    at ObjectValidator.handleStrategy (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\@sapphire\\shapeshift\\dist\\index.js:1121:47)\n    at ObjectValidator.handle (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\@sapphire\\shapeshift\\dist\\index.js:1221:17)\n    at ObjectValidator.parse (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\@sapphire\\shapeshift\\dist\\index.js:212:88)\n    at EmbedBuilder.setAuthor (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\@discordjs\\builders\\dist\\index.js:294:26)\n    at module.exports (D:\\coding\\discrod\\bot online\\husen-bot-main\\src\\events\\message\\messageCreate.js:45:8)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","aggregateErrors":[["iconURL",{"errors":[{"name":"Error","validator":"s.nullish","given":"null"},{"name":"Error","constraint":"s.string.url","given":"null","expected":"expected to match a URL"}]}]],"errors":[["iconURL",{"errors":[{"name":"Error","validator":"s.nullish","given":"null"},{"name":"Error","constraint":"s.string.url","given":"null","expected":"expected to match a URL"}]}]]},"msg":"Client Error: Received one or more errors"}
+{"level":20,"time":1704297579164,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Url: https://strangeapi.fun/api/generators/rip?image=https%3A%2F%2Fcdn.discordapp.com%2Favatars%2F1125031170422345738%2F882f4dccea2a1fde3f253b80d4d0bd15.png%3Fsize%3D256"}
+{"level":50,"time":1704297579164,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","err":{"type":"FetchError","message":"request to https://strangeapi.fun/api/generators/rip?image=https%3A%2F%2Fcdn.discordapp.com%2Favatars%2F1125031170422345738%2F882f4dccea2a1fde3f253b80d4d0bd15.png%3Fsize%3D256 failed, reason: getaddrinfo ENOTFOUND strangeapi.fun","stack":"FetchError: request to https://strangeapi.fun/api/generators/rip?image=https%3A%2F%2Fcdn.discordapp.com%2Favatars%2F1125031170422345738%2F882f4dccea2a1fde3f253b80d4d0bd15.png%3Fsize%3D256 failed, reason: getaddrinfo ENOTFOUND strangeapi.fun\n    at ClientRequest.<anonymous> (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\node-fetch\\lib\\index.js:1501:11)\n    at ClientRequest.emit (node:events:514:28)\n    at TLSSocket.socketErrorListener (node:_http_client:495:9)\n    at TLSSocket.emit (node:events:514:28)\n    at emitErrorNT (node:internal/streams/destroy:151:8)\n    at emitErrorCloseNT (node:internal/streams/destroy:116:3)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)","errno":"ENOTFOUND","code":"ENOTFOUND","name":"FetchError"},"msg":"getBuffer: request to https://strangeapi.fun/api/generators/rip?image=https%3A%2F%2Fcdn.discordapp.com%2Favatars%2F1125031170422345738%2F882f4dccea2a1fde3f253b80d4d0bd15.png%3Fsize%3D256 failed, reason: getaddrinfo ENOTFOUND strangeapi.fun"}
+{"level":20,"time":1704297604147,"pid":3448,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":16,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":301361768,\"free\":642356632,\"allocated\":943718400},\"players\":86,\"cpu\":{\"cores\":3,\"systemLoad\":0.05528711091133835,\"lavalinkLoad\":0.06040096908270543},\"uptime\":866988864}"}
+{"level":30,"time":1704297664623,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Validating config file and environment variables"}
+{"level":30,"time":1704297664675,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Loading commands..."}
+{"level":20,"time":1704297664732,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command autorole. Disabled!"}
+{"level":20,"time":1704297664733,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command counter. Disabled!"}
+{"level":20,"time":1704297664734,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command embed. Disabled!"}
+{"level":20,"time":1704297664734,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command flagtranslation. Disabled!"}
+{"level":20,"time":1704297664740,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command addrr. Disabled!"}
+{"level":20,"time":1704297664740,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command removerr. Disabled!"}
+{"level":20,"time":1704297664757,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command leaderboard. Disabled!"}
+{"level":20,"time":1704297664759,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1704297664760,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1704297664794,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1704297664796,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1704297664798,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1704297664799,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1704297664800,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1704297664801,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1704297664803,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1704297664804,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1704297664806,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command addinvites. Category INVITE is disabled"}
+{"level":20,"time":1704297664807,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command invitecodes. Category INVITE is disabled"}
+{"level":20,"time":1704297664808,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command inviter. Category INVITE is disabled"}
+{"level":20,"time":1704297664809,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command inviterank. Category INVITE is disabled"}
+{"level":20,"time":1704297664809,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command inviteranks. Category INVITE is disabled"}
+{"level":20,"time":1704297664810,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command invites. Category INVITE is disabled"}
+{"level":20,"time":1704297664811,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command invitesimport. Category INVITE is disabled"}
+{"level":20,"time":1704297664811,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command invitetracker. Category INVITE is disabled"}
+{"level":20,"time":1704297664812,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command resetinvites. Category INVITE is disabled"}
+{"level":20,"time":1704297664816,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1704297664817,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1704297664818,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1704297664818,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1704297664819,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1704297664819,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1704297664820,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1704297664821,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1704297664821,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1704297664822,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1704297664823,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1704297664824,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1704297664827,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1704297664828,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1704297664836,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command lyric. Disabled!"}
+{"level":20,"time":1704297664848,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1704297664848,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1704297664849,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1704297664849,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command restart. Disabled!"}
+{"level":20,"time":1704297664853,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command suggest. Category SUGGESTION is disabled"}
+{"level":20,"time":1704297664855,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command suggestion. Category SUGGESTION is disabled"}
+{"level":30,"time":1704297664865,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Loaded 70 commands"}
+{"level":30,"time":1704297664865,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Loaded 58 slash commands"}
+{"level":30,"time":1704297664865,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Loading contexts..."}
+{"level":30,"time":1704297664867,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1704297664867,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1704297664867,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Loading events..."}
+{"level":30,"time":1704297664913,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1704297665413,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1704297665413,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1704297666977,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1704297668859,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Logged in as AdnanBot#5040! (1167013270847242291)"}
+{"level":20,"time":1704297668859,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: creating websocket..."}
+{"level":30,"time":1704297668860,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Music Manager initialized"}
+{"level":30,"time":1704297668861,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1704297668904,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1704297669289,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" connected"}
+{"level":20,"time":1704297669289,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: connected in 429ms"}
+{"level":20,"time":1704297669298,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":15,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":366068704,\"free\":577649696,\"allocated\":943718400},\"players\":86,\"cpu\":{\"cores\":3,\"systemLoad\":0,\"lavalinkLoad\":0.45376594994238467},\"uptime\":867053993}"}
+{"level":30,"time":1704297669996,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Successfully registered interactions"}
+{"level":50,"time":1704297677685,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","err":{"type":"CombinedPropertyError","message":"Received one or more errors","stack":"Error: Received one or more errors\n    at ObjectValidator.handleIgnoreStrategy (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\@sapphire\\shapeshift\\dist\\index.js:1268:70)\n    at ObjectValidator.handleStrategy (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\@sapphire\\shapeshift\\dist\\index.js:1121:47)\n    at ObjectValidator.handle (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\@sapphire\\shapeshift\\dist\\index.js:1221:17)\n    at ObjectValidator.parse (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\@sapphire\\shapeshift\\dist\\index.js:212:88)\n    at EmbedBuilder.setAuthor (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\@discordjs\\builders\\dist\\index.js:294:26)\n    at module.exports (D:\\coding\\discrod\\bot online\\husen-bot-main\\src\\events\\message\\messageCreate.js:45:8)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","aggregateErrors":[["iconURL",{"errors":[{"name":"Error","validator":"s.nullish","given":"null"},{"name":"Error","constraint":"s.string.url","given":"null","expected":"expected to match a URL"}]}]],"errors":[["iconURL",{"errors":[{"name":"Error","validator":"s.nullish","given":"null"},{"name":"Error","constraint":"s.string.url","given":"null","expected":"expected to match a URL"}]}]]},"msg":"Client Error: Received one or more errors"}
+{"level":50,"time":1704297689062,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","err":{"type":"CombinedPropertyError","message":"Received one or more errors","stack":"Error: Received one or more errors\n    at ObjectValidator.handleIgnoreStrategy (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\@sapphire\\shapeshift\\dist\\index.js:1268:70)\n    at ObjectValidator.handleStrategy (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\@sapphire\\shapeshift\\dist\\index.js:1121:47)\n    at ObjectValidator.handle (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\@sapphire\\shapeshift\\dist\\index.js:1221:17)\n    at ObjectValidator.parse (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\@sapphire\\shapeshift\\dist\\index.js:212:88)\n    at EmbedBuilder.setAuthor (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\@discordjs\\builders\\dist\\index.js:294:26)\n    at module.exports (D:\\coding\\discrod\\bot online\\husen-bot-main\\src\\events\\message\\messageCreate.js:45:8)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","aggregateErrors":[["iconURL",{"errors":[{"name":"Error","validator":"s.nullish","given":"null"},{"name":"Error","constraint":"s.string.url","given":"null","expected":"expected to match a URL"}]}]],"errors":[["iconURL",{"errors":[{"name":"Error","validator":"s.nullish","given":"null"},{"name":"Error","constraint":"s.string.url","given":"null","expected":"expected to match a URL"}]}]]},"msg":"Client Error: Received one or more errors"}
+{"level":50,"time":1704297721758,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","err":{"type":"CombinedPropertyError","message":"Received one or more errors","stack":"Error: Received one or more errors\n    at ObjectValidator.handleIgnoreStrategy (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\@sapphire\\shapeshift\\dist\\index.js:1268:70)\n    at ObjectValidator.handleStrategy (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\@sapphire\\shapeshift\\dist\\index.js:1121:47)\n    at ObjectValidator.handle (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\@sapphire\\shapeshift\\dist\\index.js:1221:17)\n    at ObjectValidator.parse (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\@sapphire\\shapeshift\\dist\\index.js:212:88)\n    at EmbedBuilder.setAuthor (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\@discordjs\\builders\\dist\\index.js:294:26)\n    at module.exports (D:\\coding\\discrod\\bot online\\husen-bot-main\\src\\events\\message\\messageCreate.js:45:8)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","aggregateErrors":[["iconURL",{"errors":[{"name":"Error","validator":"s.nullish","given":"null"},{"name":"Error","constraint":"s.string.url","given":"null","expected":"expected to match a URL"}]}]],"errors":[["iconURL",{"errors":[{"name":"Error","validator":"s.nullish","given":"null"},{"name":"Error","constraint":"s.string.url","given":"null","expected":"expected to match a URL"}]}]]},"msg":"Client Error: Received one or more errors"}
+{"level":20,"time":1704297729290,"pid":10876,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":14,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":337812792,\"free\":605905608,\"allocated\":943718400},\"players\":86,\"cpu\":{\"cores\":3,\"systemLoad\":0.0434292795583845,\"lavalinkLoad\":0.05161971439684392},\"uptime\":867113992}"}
+{"level":30,"time":1704297772353,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Validating config file and environment variables"}
+{"level":30,"time":1704297772408,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Loading commands..."}
+{"level":20,"time":1704297772468,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command autorole. Disabled!"}
+{"level":20,"time":1704297772468,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command counter. Disabled!"}
+{"level":20,"time":1704297772469,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command embed. Disabled!"}
+{"level":20,"time":1704297772470,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command flagtranslation. Disabled!"}
+{"level":20,"time":1704297772475,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command addrr. Disabled!"}
+{"level":20,"time":1704297772475,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command removerr. Disabled!"}
+{"level":20,"time":1704297772493,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command leaderboard. Disabled!"}
+{"level":20,"time":1704297772495,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1704297772496,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1704297772533,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1704297772535,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1704297772536,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1704297772538,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1704297772538,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1704297772539,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1704297772542,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1704297772543,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1704297772545,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command addinvites. Category INVITE is disabled"}
+{"level":20,"time":1704297772545,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command invitecodes. Category INVITE is disabled"}
+{"level":20,"time":1704297772546,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command inviter. Category INVITE is disabled"}
+{"level":20,"time":1704297772547,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command inviterank. Category INVITE is disabled"}
+{"level":20,"time":1704297772548,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command inviteranks. Category INVITE is disabled"}
+{"level":20,"time":1704297772548,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command invites. Category INVITE is disabled"}
+{"level":20,"time":1704297772549,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command invitesimport. Category INVITE is disabled"}
+{"level":20,"time":1704297772551,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command invitetracker. Category INVITE is disabled"}
+{"level":20,"time":1704297772552,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command resetinvites. Category INVITE is disabled"}
+{"level":20,"time":1704297772556,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1704297772557,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1704297772558,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1704297772559,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1704297772560,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1704297772560,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1704297772561,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1704297772561,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1704297772562,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1704297772563,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1704297772564,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1704297772565,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1704297772569,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1704297772570,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1704297772580,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping command lyric. Disabled!"}
+{"level":20,"time":1704297772589,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1704297772590,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1704297772591,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1704297772591,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping slash command restart. Disabled!"}
+{"level":20,"time":1704297772595,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command suggest. Category SUGGESTION is disabled"}
+{"level":20,"time":1704297772598,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Skipping Command suggestion. Category SUGGESTION is disabled"}
+{"level":30,"time":1704297772610,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Loaded 70 commands"}
+{"level":30,"time":1704297772610,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Loaded 58 slash commands"}
+{"level":30,"time":1704297772610,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Loading contexts..."}
+{"level":30,"time":1704297772611,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1704297772611,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1704297772612,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Loading events..."}
+{"level":30,"time":1704297772656,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1704297773128,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1704297773128,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1704297773806,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1704297776450,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Logged in as AdnanBot#5040! (1167013270847242291)"}
+{"level":20,"time":1704297776451,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: creating websocket..."}
+{"level":30,"time":1704297776453,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Music Manager initialized"}
+{"level":30,"time":1704297776453,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1704297776511,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1704297776895,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" connected"}
+{"level":20,"time":1704297776896,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: connected in 443ms"}
+{"level":20,"time":1704297776902,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Node \"Society Activity Production\" debug: connection: lavaclient <<< stats: {\"playingPlayers\":14,\"op\":\"stats\",\"memory\":{\"reservable\":1006632960,\"used\":414218544,\"free\":529499856,\"allocated\":943718400},\"players\":86,\"cpu\":{\"cores\":3,\"systemLoad\":0,\"lavalinkLoad\":0.45375521597205837},\"uptime\":867161603}"}
+{"level":30,"time":1704297777186,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","msg":"Successfully registered interactions"}
+{"level":50,"time":1704297784301,"pid":12400,"hostname":"DESKTOP-2VRVQ1K","err":{"type":"CombinedPropertyError","message":"Received one or more errors","stack":"Error: Received one or more errors\n    at ObjectValidator.handleIgnoreStrategy (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\@sapphire\\shapeshift\\dist\\index.js:1268:70)\n    at ObjectValidator.handleStrategy (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\@sapphire\\shapeshift\\dist\\index.js:1121:47)\n    at ObjectValidator.handle (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\@sapphire\\shapeshift\\dist\\index.js:1221:17)\n    at ObjectValidator.parse (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\@sapphire\\shapeshift\\dist\\index.js:212:88)\n    at EmbedBuilder.setAuthor (D:\\coding\\discrod\\bot online\\husen-bot-main\\node_modules\\@discordjs\\builders\\dist\\index.js:294:26)\n    at module.exports (D:\\coding\\discrod\\bot online\\husen-bot-main\\src\\events\\message\\messageCreate.js:45:8)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","aggregateErrors":[["iconURL",{"errors":[{"name":"Error","validator":"s.nullish","given":"null"},{"name":"Error","constraint":"s.string.url","given":"null","expected":"expected to match a URL"}]}]],"errors":[["iconURL",{"errors":[{"name":"Error","validator":"s.nullish","given":"null"},{"name":"Error","constraint":"s.string.url","given":"null","expected":"expected to match a URL"}]}]]},"msg":"Client Error: Received one or more errors"}
